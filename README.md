@@ -35,12 +35,8 @@ AI assistants mention it.
 ## Install
 
 - **Claude, Claude Desktop and Cowork:** find *Odyssey Signal* in the plugin directory and install it.
-- **Claude Code, from this repository:**
-
-  ```sh
-  git clone https://github.com/OdysseyAB/odyssey-signal-claude-plugin.git
-  claude --plugin-dir ./odyssey-signal-claude-plugin
-  ```
+- **Claude Code:** install *Odyssey Signal* from the plugin directory with the `/plugin` command, or clone this
+  repository and point Claude Code's `--plugin-dir` option at the cloned folder.
 
 The first time Claude uses the server, it asks you to sign in to Odyssey. Setup guide:
 <https://docs.odysseysignal.com/mcp/install-mcp>. Tools reference: <https://docs.odysseysignal.com/mcp/mcp-tools>.

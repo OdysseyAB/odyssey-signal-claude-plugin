@@ -1,6 +1,6 @@
 ---
 name: brand-funnel
-description: The brand funnel in Odyssey Signal - awareness, consideration, preference, usage and the Signal's own funnel conversion metrics - for the user's brand and its competitors: how the brand scores at each step, with conversion only where the Signal provides its own conversion metric. Use for "funnel", "conversion", "where do we lose people", "from awareness to consideration", "path to purchase".
+description: The brand funnel in Odyssey Signal - awareness, consideration, preference, usage and the Signal's own funnel conversion metrics - for the user's brand and its competitors, showing how the brand scores at each step, with conversion only where the Signal provides its own conversion metric. Use for "funnel", "conversion", "where do we lose people", "from awareness to consideration", "path to purchase".
 ---
 
 # Brand funnel
