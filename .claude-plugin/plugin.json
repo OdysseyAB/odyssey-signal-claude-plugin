@@ -19,5 +19,8 @@
     "share of voice"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://docs.odysseysignal.com/legal/privacy-policy"
+  "privacyPolicyUrl": "https://docs.odysseysignal.com/legal/privacy-policy",
+  "termsOfServiceUrl": "https://docs.odysseysignal.com/legal/user-terms",
+  "documentationUrl": "https://docs.odysseysignal.com/mcp/mcp-tools",
+  "supportUrl": "mailto:support@odysseysignal.com"
 }
