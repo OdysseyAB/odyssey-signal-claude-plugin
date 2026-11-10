@@ -1,0 +1,23 @@
+{
+  "name": "odyssey-signal",
+  "displayName": "Odyssey Signal",
+  "version": "0.1.0",
+  "description": "Brand tracking with Odyssey Signal: brand health, trends, competitors, target groups, the brand funnel, brand image and drivers, the demand-space map, media conversations and AI visibility, read live from your own Signals.",
+  "author": {
+    "name": "Odyssey",
+    "url": "https://odysseysignal.com"
+  },
+  "homepage": "https://docs.odysseysignal.com/mcp/install-mcp",
+  "repository": "https://github.com/OdysseyAB/odyssey-signal-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "brand tracking",
+    "brand health",
+    "market research",
+    "competitors",
+    "AI visibility",
+    "share of voice"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://docs.odysseysignal.com/legal/privacy-policy"
+}
